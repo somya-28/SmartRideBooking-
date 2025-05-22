@@ -1,0 +1,33 @@
+.map-container {
+  width: 100%;
+  height: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e0e0e0;
+}
+
+/* Fix for Google Maps loading issues */
+.gm-style {
+  position: absolute !important;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.gm-style > div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+/* Ensure markers and polylines are visible */
+.gm-style img {
+  max-width: none !important;
+}
+
+/* Enhance map controls visibility */
+.gm-control-active, .gm-svpc, .gmnoprint button {
+  background-color: white !important;
+  border: 1px solid #ddd !important;
+  border-radius: 2px !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3) !important;
+}

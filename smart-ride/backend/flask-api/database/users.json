@@ -1,0 +1,32 @@
+[
+  {
+    "email": "somyagupta8923@gmail.com",
+    "password_hash": "scrypt:32768:8:1$QW1fb3PS8EK1QLfM$5a697eecdfa232384cd882031269d6e97afa436f15c3a4e682db582567e90342e569c2714f8b3f219363b688414d142f64f0d4fffa918e196c820f55c2f6f7fe",
+    "name": "Somya Gupta"
+  },
+  {
+    "email": "samarthchoudhary764@gmail.com",
+    "password_hash": "scrypt:32768:8:1$7zdzdRtA1HN1zJWs$6aeab9c91527b30a8974d0ae9a57d4d87f1f752c6dfd669015d8909954b166465499e85f4602e4279317bb1ce6e341a5cdcef4922c9f724e2c96489b0fbb1873",
+    "name": "garv"
+  },
+  {
+    "email": "yash.gupta.mzn.sg@gmail.com",
+    "password_hash": "scrypt:32768:8:1$iUpeDmUKDB2tahKq$d4ab986476eeb7b823865a39439ebf9a7eb9e11ae028c2f32676d8bd472e95b5dbe8a60bb6355881166053d6feedd76e590c6e56f61b7d29da0daff31ba6f1f3",
+    "name": "Somya Gupta"
+  },
+  {
+    "email": "Samarthchoudhary764@gmail.com",
+    "password_hash": "scrypt:32768:8:1$RcDJ0IzpjWRP4hv6$a2f1ef6f66a292fed94cb7964dffa45970052c12748e5f979357a4506b0cbcec2a05e3214bde6c9de9e8f7143a95fbf6e8776b2d476c3ab0b2ae64f43fa09c9c",
+    "name": "kanika"
+  },
+  {
+    "email": "yash8923@gmail.com",
+    "password_hash": "scrypt:32768:8:1$zDiUZQNQfZP3qNMD$8c42a991efd2af3afe2fef61ac0a9f11dca7f60de16c53d3c5a2ca9fe2c4a37e7ff25492c583ba9e2f4122749eda8c74ad3090740b3e4f0e5a8ef43d6e8700e5",
+    "name": "neha"
+  },
+  {
+    "email": "kanika@gmail.com",
+    "password_hash": "scrypt:32768:8:1$ARQVe0N33xVqZz9r$375a6d196ad23a972debc2cda6b928bad6c0bb3a1cca9e381fac6d3d82215b20ce8dff3192cd4ddd6c20abdd8421c4fbf67527a69a7b62c9a30a48da7ded9ca0",
+    "name": "kanika"
+  }
+]

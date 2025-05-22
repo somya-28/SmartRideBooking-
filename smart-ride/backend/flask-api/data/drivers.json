@@ -1,0 +1,194 @@
+[
+  {
+    "id": "driver-001",
+    "name": "John Davis",
+    "phone": "+91 98765 43210",
+    "email": "john.davis@example.com",
+    "password_hash": "pbkdf2:sha256:150000$abc123",
+    "status": "available",
+    "rating": 4.8,
+    "total_rides": 1243,
+    "vehicle": {
+      "model": "Honda City",
+      "color": "White",
+      "year": 2022,
+      "plate_number": "KA 01 MJ 7890",
+      "type": "sedan"
+    },
+    "ride_types": ["mini", "sedan"],
+    "current_location": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "last_updated": "2025-05-22T01:15:00"
+  },
+  {
+    "id": "driver-002",
+    "name": "Sarah Wilson",
+    "phone": "+91 87654 32109",
+    "email": "sarah.wilson@example.com",
+    "password_hash": "pbkdf2:sha256:150000$def456",
+    "status": "available",
+    "rating": 4.9,
+    "total_rides": 856,
+    "vehicle": {
+      "model": "Toyota Corolla",
+      "color": "Silver",
+      "year": 2023,
+      "plate_number": "MH 04 AB 1234",
+      "type": "sedan"
+    },
+    "ride_types": ["mini", "sedan", "premium"],
+    "current_location": {
+      "lat": 12.9352,
+      "lng": 77.6245
+    },
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+    "last_updated": "2025-05-22T01:20:00"
+  },
+  {
+    "id": "driver-003",
+    "name": "Michael Chen",
+    "phone": "+91 76543 21098",
+    "email": "michael.chen@example.com",
+    "password_hash": "pbkdf2:sha256:150000$ghi789",
+    "status": "available",
+    "rating": 4.7,
+    "total_rides": 2105,
+    "vehicle": {
+      "model": "Hyundai Verna",
+      "color": "Black",
+      "year": 2021,
+      "plate_number": "DL 05 CD 5678",
+      "type": "sedan"
+    },
+    "ride_types": ["mini", "sedan"],
+    "current_location": {
+      "lat": 12.9010,
+      "lng": 77.6150
+    },
+    "photo": "https://randomuser.me/api/portraits/men/67.jpg",
+    "last_updated": "2025-05-22T01:10:00"
+  },
+  {
+    "id": "driver-004",
+    "name": "Priya Sharma",
+    "phone": "+91 65432 10987",
+    "email": "priya.sharma@example.com",
+    "password_hash": "pbkdf2:sha256:150000$jkl012",
+    "status": "available",
+    "rating": 4.6,
+    "total_rides": 1567,
+    "vehicle": {
+      "model": "Maruti Swift",
+      "color": "Red",
+      "year": 2022,
+      "plate_number": "KA 05 EF 9012",
+      "type": "mini"
+    },
+    "ride_types": ["mini"],
+    "current_location": {
+      "lat": 12.9779,
+      "lng": 77.6408
+    },
+    "photo": "https://randomuser.me/api/portraits/women/28.jpg",
+    "last_updated": "2025-05-22T01:25:00"
+  },
+  {
+    "id": "driver-005",
+    "name": "Raj Patel",
+    "phone": "+91 54321 09876",
+    "email": "raj.patel@example.com",
+    "password_hash": "pbkdf2:sha256:150000$mno345",
+    "status": "available",
+    "rating": 4.9,
+    "total_rides": 3210,
+    "vehicle": {
+      "model": "Toyota Innova",
+      "color": "Grey",
+      "year": 2023,
+      "plate_number": "MH 02 GH 3456",
+      "type": "xl"
+    },
+    "ride_types": ["xl", "premium"],
+    "current_location": {
+      "lat": 12.9592,
+      "lng": 77.6974
+    },
+    "photo": "https://randomuser.me/api/portraits/men/45.jpg",
+    "last_updated": "2025-05-22T01:05:00"
+  },
+  {
+    "id": "driver-006",
+    "name": "Ananya Gupta",
+    "phone": "+91 43210 98765",
+    "email": "ananya.gupta@example.com",
+    "password_hash": "pbkdf2:sha256:150000$pqr678",
+    "status": "available",
+    "rating": 4.8,
+    "total_rides": 945,
+    "vehicle": {
+      "model": "Honda Amaze",
+      "color": "White",
+      "year": 2022,
+      "plate_number": "KA 03 IJ 7890",
+      "type": "mini"
+    },
+    "ride_types": ["mini"],
+    "current_location": {
+      "lat": 12.9217,
+      "lng": 77.5936
+    },
+    "photo": "https://randomuser.me/api/portraits/women/62.jpg",
+    "last_updated": "2025-05-22T01:30:00"
+  },
+  {
+    "id": "driver-007",
+    "name": "Vikram Singh",
+    "phone": "+91 32109 87654",
+    "email": "vikram.singh@example.com",
+    "password_hash": "pbkdf2:sha256:150000$stu901",
+    "status": "available",
+    "rating": 4.7,
+    "total_rides": 1876,
+    "vehicle": {
+      "model": "Mercedes E-Class",
+      "color": "Black",
+      "year": 2023,
+      "plate_number": "DL 01 KL 2345",
+      "type": "premium"
+    },
+    "ride_types": ["premium"],
+    "current_location": {
+      "lat": 12.9698,
+      "lng": 77.7499
+    },
+    "photo": "https://randomuser.me/api/portraits/men/22.jpg",
+    "last_updated": "2025-05-22T01:15:00"
+  },
+  {
+    "id": "driver-008",
+    "name": "Neha Kapoor",
+    "phone": "+91 21098 76543",
+    "email": "neha.kapoor@example.com",
+    "password_hash": "pbkdf2:sha256:150000$vwx234",
+    "status": "available",
+    "rating": 4.9,
+    "total_rides": 2341,
+    "vehicle": {
+      "model": "Hyundai i20",
+      "color": "Blue",
+      "year": 2022,
+      "plate_number": "MH 06 MN 6789",
+      "type": "mini"
+    },
+    "ride_types": ["mini"],
+    "current_location": {
+      "lat": 12.9101,
+      "lng": 77.6297
+    },
+    "photo": "https://randomuser.me/api/portraits/women/36.jpg",
+    "last_updated": "2025-05-22T01:20:00"
+  }
+]
